@@ -1,0 +1,6 @@
+C:\WORK@SE\Projects\HangWindows\HangWindows\bin\Debug\HangWindows.exe.config
+C:\WORK@SE\Projects\HangWindows\HangWindows\bin\Debug\HangWindows.exe
+C:\WORK@SE\Projects\HangWindows\HangWindows\bin\Debug\HangWindows.pdb
+C:\WORK@SE\Projects\HangWindows\HangWindows\obj\Debug\HangWindows.csproj.CoreCompileInputs.cache
+C:\WORK@SE\Projects\HangWindows\HangWindows\obj\Debug\HangWindows.exe
+C:\WORK@SE\Projects\HangWindows\HangWindows\obj\Debug\HangWindows.pdb

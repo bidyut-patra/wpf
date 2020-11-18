@@ -1,0 +1,6 @@
+C:\WORK@SE\Projects\GitHub\wpf\LibraryApp\ViewModelExtn\bin\Debug\ViewModelExtn.dll
+C:\WORK@SE\Projects\GitHub\wpf\LibraryApp\ViewModelExtn\bin\Debug\ViewModelExtn.pdb
+C:\WORK@SE\Projects\GitHub\wpf\LibraryApp\ViewModelExtn\obj\Debug\ViewModelExtn.csprojAssemblyReference.cache
+C:\WORK@SE\Projects\GitHub\wpf\LibraryApp\ViewModelExtn\obj\Debug\ViewModelExtn.csproj.CoreCompileInputs.cache
+C:\WORK@SE\Projects\GitHub\wpf\LibraryApp\ViewModelExtn\obj\Debug\ViewModelExtn.dll
+C:\WORK@SE\Projects\GitHub\wpf\LibraryApp\ViewModelExtn\obj\Debug\ViewModelExtn.pdb

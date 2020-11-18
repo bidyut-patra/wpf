@@ -1,0 +1,13 @@
+C:\WORK@SE\Projects\HangWindows\HangWindows\bin\Release\FreezeWindows.exe.config
+C:\WORK@SE\Projects\HangWindows\HangWindows\bin\Release\FreezeWindows.exe
+C:\WORK@SE\Projects\HangWindows\HangWindows\bin\Release\FreezeWindows.pdb
+C:\WORK@SE\Projects\HangWindows\HangWindows\obj\Release\FreezeWindows.csproj.CoreCompileInputs.cache
+C:\WORK@SE\Projects\HangWindows\HangWindows\obj\Release\FreezeWindows.exe
+C:\WORK@SE\Projects\HangWindows\HangWindows\obj\Release\FreezeWindows.pdb
+C:\WORK@SE\Projects\FreezeWindows\FreezeWindows\bin\Release\FreezeWindows.exe.config
+C:\WORK@SE\Projects\FreezeWindows\FreezeWindows\bin\Release\FreezeWindows.exe
+C:\WORK@SE\Projects\FreezeWindows\FreezeWindows\bin\Release\FreezeWindows.pdb
+C:\WORK@SE\Projects\FreezeWindows\FreezeWindows\obj\Release\FreezeWindows.csproj.CoreCompileInputs.cache
+C:\WORK@SE\Projects\FreezeWindows\FreezeWindows\obj\Release\FreezeWindows.exe
+C:\WORK@SE\Projects\FreezeWindows\FreezeWindows\obj\Release\FreezeWindows.pdb
+C:\WORK@SE\Projects\FreezeWindows\FreezeWindows\obj\Release\FreezeWindows.csprojAssemblyReference.cache
